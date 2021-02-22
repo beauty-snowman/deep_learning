@@ -1,2 +1,2 @@
 # deep_learning
-Only for practice
+Only for practice test
